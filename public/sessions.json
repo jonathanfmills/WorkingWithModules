@@ -1,0 +1,23 @@
+[
+  {
+    "title": "DARK ENERGY",
+    "tagline": "BRIGHTENS THE WORLD",
+    "img": "images/Bitmap.png",
+    "alt": "Public Adjuster",
+    "link": "#"
+  },
+  {
+    "title": "ROBOTICS",
+    "tagline": "THEY ARE HERE AND THEY PLAY",
+    "img": "images/Bitmap(1).png",
+    "alt": "Public",
+    "link": "robotics.html"
+  },
+  {
+    "title": "STRANGERS RISE",
+    "tagline": "ASCENSION GOES TECHNICAL",
+    "img": "images/shutterstock_211091626.png",
+    "alt": "Public",
+    "link": "#"
+  }
+]
